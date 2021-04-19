@@ -1,3 +1,20 @@
+# How you should expect it to work basically:
+    1. You need to signin unless you already have an account.
+    2. You will be redirected to the main page. 
+    3. The contents of the Feed and Videos take some time to load if there is       content so you need to switch between screens to refresh and load it. 
+    4. The recorded video will be automatically displayed on your Videos section.
+    5. Each video can be edited, shared, or deleted. 
+    6. Each video is represented by its thumbnail and can click on it to play.
+    6. The saved video will also get automatically displayed on your Videos section.
+    7. The shared videos will get displayed on the Feed section. 
+    8. Like I said, if you don't see the videos there, try switching between sections.
+
+
+# Additional Notes: 
+    1. I have tested the app only on android and is quite android oriented.
+    2. The recorded video is stored on the app cache and there is no feature to save it 
+        to the device.
+
 # Dependencies: 
     "@react-native-community/async-storage": "^1.12.1",
     "@react-native-community/masked-view": "^0.1.10",
