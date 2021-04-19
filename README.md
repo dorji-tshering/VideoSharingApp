@@ -1,4 +1,3 @@
-# VideoSharingApp
 # Dependencies: 
     "@react-native-community/async-storage": "^1.12.1",
     "@react-native-community/masked-view": "^0.1.10",
