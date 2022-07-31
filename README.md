@@ -1,3 +1,5 @@
+# My First Mobile App Project: completed in one week.
+
 # How you should expect it to work basically:
 1. You need to signin unless you already have an account.
 2. You will be redirected to the main page. 
