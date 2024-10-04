@@ -7,7 +7,7 @@ buildscript {
         maven { url "https://artifactory.img.ly/artifactory/imgly" }
     }
     dependencies {
-        classpath 'ly.img.android.sdk:plugin:10.2.1'
+        classpath 'ly.img.android.sdk:plugin:10.10.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10"
     }
 }
